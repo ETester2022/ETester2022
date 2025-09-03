@@ -5,7 +5,7 @@
 - Мои контакты 🙃:
 
 <code><a href="https://t.me/EvgenSHIP"><img src="images/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
-<code><a href="gekashopicin@gmail.com" target="blank"><img src="images/Gmail.svg" height="40" width="40" title="My email"></a></code>
+<code><a href="mailto:gekashopicin@gmail.com" target="blank"><img src="images/Gmail.svg" height="40" width="40" title="My email"></a></code>
 
 ## 👨‍🎓Опыт работы
 
